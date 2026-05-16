@@ -185,13 +185,14 @@ The AI models used in Eluma are deployed on **Hugging Face Spaces** and served v
 
 ##  Screenshots
 
-<img width="323" height="726" alt="Screenshot 2026-04-30 000010" src="https://github.com/user-attachments/assets/cec4aea5-7bda-4b48-9a73-c028464f5946" />
-<img width="318" height="697" alt="Screenshot 2026-04-30 000044" src="https://github.com/user-attachments/assets/31c12d16-725a-4aee-a226-02a6e143fbfc" />
-<img width="382" height="843" alt="Screenshot 2026-04-30 001534" src="https://github.com/user-attachments/assets/5315949e-145c-46ac-afcd-197577055b1f" />
-<img width="398" height="908" alt="Screenshot 2026-04-30 132737" src="https://github.com/user-attachments/assets/b14ef02b-c619-479d-9197-6f1a04035222" />
+## Screenshots
 
-<img width="318" height="726" alt="Screenshot 2026-04-30 205132" src="https://github.com/user-attachments/assets/17ddb65f-d5e7-49c9-a4bf-e579ab08e0f9" />
-
+<img width="300" height="650" alt="Screenshot 2026-04-30 000010" src="https://github.com/user-attachments/assets/cec4aea5-7bda-4b48-9a73-c028464f5946" />
+<img width="300" height="650" alt="Screenshot 2026-04-30 000044" src="https://github.com/user-attachments/assets/31c12d16-725a-4aee-a226-02a6e143fbfc" />
+<img width="300" height="650" alt="Screenshot 2026-04-30 001534" src="https://github.com/user-attachments/assets/5315949e-145c-46ac-afcd-197577055b1f" />
+<img width="300" height="650" alt="Screenshot 2026-04-30 132737" src="https://github.com/user-attachments/assets/b14ef02b-c619-479d-9197-6f1a04035222" />
+<img width="300" height="650" alt="Screenshot 2026-05-13 112648" src="https://github.com/user-attachments/assets/b92786bf-9bf0-4a5e-a66c-dd9f7c89a96c" />
+<img width="300" height="650" alt="Screenshot 2026-04-30 205132" src="https://github.com/user-attachments/assets/17ddb65f-d5e7-49c9-a4bf-e579ab08e0f9" />
 
 
 ## 📄 License
